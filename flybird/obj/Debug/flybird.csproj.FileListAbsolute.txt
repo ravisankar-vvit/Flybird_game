@@ -1,0 +1,15 @@
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.csproj.AssemblyReference.cache
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.Form1.resources
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.Properties.Resources.resources
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.csproj.GenerateResource.cache
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.csproj.CoreCompileInputs.cache
+C:\Users\Ravisankar\source\repos\flybird\bin\Debug\flybird.exe.config
+C:\Users\Ravisankar\source\repos\flybird\bin\Debug\flybird.exe
+C:\Users\Ravisankar\source\repos\flybird\bin\Debug\flybird.pdb
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.exe
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.pdb
+C:\Users\Ravisankar\source\repos\flybird\bin\Debug\flybird.exe.manifest
+C:\Users\Ravisankar\source\repos\flybird\bin\Debug\flybird.application
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.exe.manifest
+C:\Users\Ravisankar\source\repos\flybird\obj\Debug\flybird.application
